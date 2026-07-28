@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1754-largest-merge-of-two-strings](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1544-make-the-string-great) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1544-make-the-string-great) |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
