@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
