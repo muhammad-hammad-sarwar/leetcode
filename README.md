@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
