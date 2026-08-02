@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
