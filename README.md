@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -114,8 +119,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/muhammad-hammad-sarwar/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
